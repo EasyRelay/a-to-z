@@ -4,7 +4,7 @@ import { useLocation } from 'react-router-dom';
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
-  const location = useLocation(); // bu yerda hozirgi path olinadi
+  const location = useLocation();
 
   useEffect(() => {
     const handleScroll = () => {
@@ -33,14 +33,14 @@ const Header = () => {
               <Zap className="w-6 h-6 text-white" />
             </div>
             <span className="text-xl font-bold bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">
-              A to Z
+              A TO Z FREIGHT SOLUTION
             </span>
           </div>
 
           {isHome && (
             <div className="hidden md:flex items-center space-x-8 text-base font-medium">
-              <a href="#services" className="hover:text-blue-400 transition-colors">Services</a>
-              <a href="#how-it-works" className="hover:text-blue-400 transition-colors">How It Works</a>
+              <a href="#partners" className="hover:text-blue-400 transition-colors">Partners</a>
+              <a href="#why-choose-us" className="hover:text-blue-400 transition-colors">Why Choose Us</a>
               <a href="#testimonials" className="hover:text-blue-400 transition-colors">Reviews</a>
             </div>
           )}

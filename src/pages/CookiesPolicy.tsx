@@ -22,7 +22,7 @@ const CookiesPolicy = () => {
 
             <div className="prose prose-invert prose-lg max-w-none text-gray-300 leading-relaxed">
               <p className="text-xl mb-8 text-gray-400">
-                This Cookie Policy explains how Buraq Limited LLC (“we,” “our,” or “us”) uses cookies and similar technologies when you visit our website or use our services, including tools integrated with third-party platforms such as RingCentral.
+                This Cookie Policy explains how A TO Z FREIGHT SOLUTION LLC (“we,” “our,” or “us”) uses cookies and similar technologies when you visit our website or use our services, including tools integrated with third-party platforms such as RingCentral.
               </p>
 
               <h2 className="text-3xl md:text-4xl font-bold text-white mt-12 mb-4">
@@ -83,12 +83,11 @@ const CookiesPolicy = () => {
               <p>If you have questions about this Cookie Policy, please reach out:</p>
 
               <div className="bg-gray-800/50 p-6 rounded-xl border border-gray-700/40 mt-6">
-                <p className="mb-2 font-bold text-white">Buraq Limited LLC</p>
-                <p className="mb-2">70 Eleanor Dr</p>
+                <p className="mb-2 font-bold text-white">A TO Z FREIGHT SOLUTION LLC</p>
+                <p className="mb-2">80 Marbury Ct</p>
                 <p className="mb-2">Springboro, OH 45066</p>
-                <p className="mb-2">Phone: +1 (513) 407-4748</p>
-                <p className="mb-2">Email: privacy@buraqlogistics.com</p>
-                <p className="mb-2">Website: www.buraqlogistics.com</p>
+                <p className="mb-2">Phone: (937) 518-4849, (513) 667-4946</p>
+                <p className="mb-2">Email: azfreightsolution@gmail.com</p>
               </div>
 
               <p className="text-sm text-gray-500 mt-12 text-center italic">

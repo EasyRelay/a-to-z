@@ -22,14 +22,14 @@ function TermsOfService() {
 
             <div className="prose prose-invert prose-lg max-w-none text-gray-300 leading-relaxed">
               <p className="text-xl mb-8 text-gray-400">
-                Welcome to Buraq Limited LLC. By accessing our website or using our logistics and communication services—including integrations with platforms like RingCentral—you agree to the following Terms of Service. If you do not agree to these terms, please discontinue use of our services immediately.
+                Welcome to A TO Z FREIGHT SOLUTION LLC. By accessing our website or using our logistics and communication services—including integrations with platforms like RingCentral—you agree to the following Terms of Service. If you do not agree to these terms, please discontinue use of our services immediately.
               </p>
 
               <h2 className="text-3xl md:text-4xl font-bold text-white mt-12 mb-4">1. Acceptance of Terms</h2>
-              <p>These Terms form a binding agreement between you (the user) and Buraq Limited LLC. Use of our website or services constitutes your acceptance of these Terms and our Privacy Policy.</p>
+              <p>These Terms form a binding agreement between you (the user) and A TO Z FREIGHT SOLUTION LLC. Use of our website or services constitutes your acceptance of these Terms and our Privacy Policy.</p>
 
               <h2 className="text-3xl md:text-4xl font-bold text-white mt-12 mb-4">2. Services Overview</h2>
-              <p>Buraq Limited LLC provides logistics, freight coordination, shipment tracking, and digital communication tools. Certain services may be integrated with third-party platforms such as RingCentral. We reserve the right to modify, suspend, or discontinue any feature at any time without notice.</p>
+              <p>A TO Z FREIGHT SOLUTION LLC provides logistics, freight coordination, shipment tracking, and digital communication tools. Certain services may be integrated with third-party platforms such as RingCentral. We reserve the right to modify, suspend, or discontinue any feature at any time without notice.</p>
 
               <h2 className="text-3xl md:text-4xl font-bold text-white mt-12 mb-4">3. Eligibility</h2>
               <ul className="list-disc pl-6 space-y-2 marker:text-blue-400">
@@ -56,7 +56,7 @@ function TermsOfService() {
               </ul>
 
               <h2 className="text-3xl md:text-4xl font-bold text-white mt-12 mb-4">6. Intellectual Property</h2>
-              <p>All content, branding, software, and materials on this site are the exclusive property of Buraq Limited LLC or our partners. Reproduction without permission is prohibited.</p>
+              <p>All content, branding, software, and materials on this site are the exclusive property of A TO Z FREIGHT SOLUTION LLC or our partners. Reproduction without permission is prohibited.</p>
 
               <h2 className="text-3xl md:text-4xl font-bold text-white mt-12 mb-4">7. Account Suspension and Termination</h2>
               <p>We reserve the right to suspend or terminate accounts violating these Terms or engaging in abuse. Notifications will be sent via email or in-platform.</p>
@@ -72,7 +72,7 @@ function TermsOfService() {
               </ul>
 
               <h2 className="text-3xl md:text-4xl font-bold text-white mt-12 mb-4">10. Indemnity</h2>
-              <p>You agree to indemnify and hold harmless Buraq Limited LLC and its affiliates from any claims resulting from your use of our services or breach of these Terms.</p>
+              <p>You agree to indemnify and hold harmless A TO Z FREIGHT SOLUTION LLC and its affiliates from any claims resulting from your use of our services or breach of these Terms.</p>
 
               <h2 className="text-3xl md:text-4xl font-bold text-white mt-12 mb-4">11. Governing Law</h2>
               <p>These Terms are governed by the laws of Delaware, USA. Any disputes shall be handled in the courts of the State of Ohio, USA.</p>
@@ -83,11 +83,11 @@ function TermsOfService() {
               <h2 className="text-3xl md:text-4xl font-bold text-white mt-12 mb-4">13. Contact Information</h2>
               <p>For any questions about these Terms of Service, please contact us at:</p>
               <div className="bg-gray-800/50 p-6 rounded-xl border border-gray-700/40 mt-6">
-                <p className="mb-2 font-bold text-white">Buraq Limited LLC</p>
-                <p className="mb-2">Email: legal@buraqlogistics.com</p>
-                <p className="mb-2">Phone: +1 (513) 407-4748</p>
-                <p className="mb-2">Address: 70 Eleanor Dr, Springboro, OH 45066</p>
-                <p className="mb-2">Website: buraqlimited.com</p>
+                <p className="mb-2 font-bold text-white">A TO Z FREIGHT SOLUTION LLC</p>
+                <p className="mb-2">Email: azfreightsolution@gmail.com</p>
+                <p className="mb-2">Phone: (937) 518-4849, (513) 667-4946</p>
+                <p className="mb-2">Address: 80 Marbury Ct, Springboro, OH 45066</p>
+                <p className="mb-2">Website: https://atozlogistic.netlify.app</p>
               </div>
 
               <p className="text-sm text-gray-500 mt-12 text-center italic">

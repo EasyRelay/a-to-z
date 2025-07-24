@@ -22,7 +22,7 @@ const PrivacyPolicy = () => {
 
             <div className="prose prose-invert prose-lg max-w-none text-gray-300 leading-relaxed">
               <p className="text-xl mb-8 text-gray-400">
-                At Buraq Limited LLC, we are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website and use our services, including integrations with third-party communication platforms such as RingCentral.
+                At A TO Z FREIGHT SOLUTION LLC, we are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website and use our services, including integrations with third-party communication platforms such as RingCentral.
               </p>
 
               <h2 className="text-3xl md:text-4xl font-bold text-white mt-12 mb-4">1. Information We Collect</h2>
@@ -71,7 +71,7 @@ const PrivacyPolicy = () => {
                 <li>Object to or restrict certain data processing</li>
                 <li>Withdraw consent for data usage (where applicable)</li>
               </ul>
-              <p>To exercise these rights, contact us at <strong>legal@buraqlogistics.com</strong>.</p>
+              <p>To exercise these rights, contact us at <strong>azfreightsolution@gmail.com</strong>.</p>
 
               <h2 className="text-3xl md:text-4xl font-bold text-white mt-12 mb-4">7. Security of Your Information</h2>
               <p>
@@ -92,11 +92,11 @@ const PrivacyPolicy = () => {
               <p>If you have any questions about this Privacy Policy, contact us at:</p>
 
               <div className="bg-gray-800/50 p-6 rounded-xl border border-gray-700/40 mt-6">
-                <p className="mb-2 font-bold text-white">Buraq Limited LLC</p>
-                <p className="mb-2">70 Eleanor Dr</p>
+                <p className="mb-2 font-bold text-white">A TO Z FREIGHT SOLUTION LLC</p>
+                <p className="mb-2">80 Marbury Ct</p>
                 <p className="mb-2">Springboro, OH 45066</p>
-                <p className="mb-2">Phone: +1 (513) 407-4748</p>
-                <p className="mb-2">Email: legal@buraqlogistics.com</p>
+                <p className="mb-2">Phone: (937) 518-4849, (513) 667-4946</p>
+                <p className="mb-2">Email: azfreightsolution@gmail.com</p>
               </div>
 
               <p className="text-sm text-gray-500 mt-12 text-center italic">
