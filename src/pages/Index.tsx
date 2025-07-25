@@ -87,22 +87,26 @@ function Index() {
             <Header />
 
             {/* Hero Section */}
-            <section id='about-us' className="relative pt-20 pb-28 overflow-hidden">
-                <div className="absolute inset-0 bg-gradient-to-br from-blue-900/20 via-purple-900/20 to-green-900/20"></div>
-                <div className="absolute inset-0">
-                    <div className="absolute top-20 left-10 w-72 h-72 bg-blue-500/10 rounded-full blur-3xl animate-pulse"></div>
-                    <div className="absolute bottom-20 right-10 w-96 h-96 bg-purple-500/10 rounded-full blur-3xl animate-pulse delay-1000"></div>
-                    <div className="absolute top-1/2 left-1/2 w-80 h-80 bg-green-500/10 rounded-full blur-3xl animate-pulse delay-500"></div>
-                </div>
+            <section
+                id="about-us"
+                className="relative pt-20 pb-28 overflow-hidden text-white"
+                style={{
+                    backgroundImage: `url('images/e3cf092a8edebdf492050d780b0af442.jpg')`,
+                    backgroundSize: 'cover',
+                    backgroundPosition: 'center',
+                    backgroundRepeat: 'no-repeat',
+                }}
+            >
+                <div className="absolute inset-0 bg-black/60 z-0" />
 
-                <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-20 text-center">
+                <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-20 text-center">
                     <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-blue-400 via-purple-400 to-green-400 bg-clip-text text-transparent leading-tight">
                         A TO Z FREIGHT SOLUTION LLC
                     </h1>
                     <p className="text-xl md:text-2xl text-gray-300 mb-4">
                         Your trusted partner in smart logistics.
                     </p>
-                    <p className="text-lg text-gray-400">
+                    <p className="text-lg text-gray-300">
                         <strong>MC:</strong> 1598514 &nbsp; | &nbsp; <strong>DOT:</strong> 3856056
                     </p>
 
@@ -129,7 +133,7 @@ function Index() {
                         ].map((stat, index) => (
                             <div
                                 key={index}
-                                className="bg-gray-800/30 backdrop-blur-sm rounded-2xl p-6 border border-gray-700/50 hover:border-blue-500/50 transition-all transform hover:scale-105 shadow-md"
+                                className="bg-gray-800/40 backdrop-blur-sm rounded-2xl p-6 border border-gray-700/50 hover:border-blue-500/50 transition-all transform hover:scale-105 shadow-md"
                             >
                                 <div className="flex items-center gap-3 mb-3">
                                     <div className={`p-2 rounded-full bg-gradient-to-br ${stat.color} text-white`}>
@@ -146,12 +150,13 @@ function Index() {
                 </div>
             </section>
 
+
             {/* Partners Section */}
             <section id='partners' className="bg-gray-900 py-20">
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
 
                     <div className="text-center mb-16">
-                        <h2 className="text-4xl md:text-5xl font-bold text-white mb-4">
+                        <h2 className="text-4xl md:text-5xl font-bold mb-6 bg-gradient-to-r from-blue-600 via-green-400 to-purple-400 bg-clip-text text-transparent">
                             Trusted by Global Brands
                         </h2>
                         <p className="text-xl text-gray-400 max-w-2xl mx-auto">
@@ -163,7 +168,7 @@ function Index() {
                         {partners.map((partner, index) => (
                             <div
                                 key={partner}
-                                className="flex items-center justify-center p-4 rounded-2xl bg-gray-700/80 backdrop-blur-md border border-gray-700/40 hover:border-blue-500 transition-all duration-300 hover:scale-105 group"
+                                className="flex items-center justify-center p-4 rounded-2xl bg-white backdrop-blur-md border border-gray-700/40 hover:border-blue-500 transition-all duration-300 hover:scale-105 group"
                                 style={{ animationDelay: `${index * 0.1}s` }}
                             >
                                 <img

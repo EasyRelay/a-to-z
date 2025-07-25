@@ -3,10 +3,10 @@ import { Link } from 'react-router-dom';
 
 const Footer = () => {
   const services = [
-    {name: "About Us", id: "about-us"}, 
-    {name: "Partners", id: "partners"}, 
-    {name: "Testimonials", id: "why-choose-us"}, 
-    {name: "Contact", id: "contact"},
+    { name: "About Us", id: "about-us" },
+    { name: "Partners", id: "partners" },
+    { name: "Testimonials", id: "why-choose-us" },
+    { name: "Contact", id: "contact" },
   ];
 
   const getById = (name: string) => {
@@ -16,10 +16,10 @@ const Footer = () => {
   return (
     <footer className="bg-gray-900 border-t border-gray-800 py-12 text-gray-300">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-10">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-10 items-center text-center md:text-left">
           {/* Logo & Summary */}
-          <div >
-            <div className="flex items-center space-x-2 mb-4">
+          <div>
+            <div className="flex items-center justify-center md:justify-start space-x-2 mb-4">
               <div className="w-10 h-10 bg-gradient-to-r from-blue-500 to-purple-600 rounded-lg flex items-center justify-center">
                 <Zap className="w-6 h-6 text-white" />
               </div>
@@ -65,6 +65,7 @@ const Footer = () => {
             </ul>
           </div>
         </div>
+
 
         {/* Bottom Bar */}
         <div className="border-t mt-12 pt-8 flex flex-col md:flex-row justify-between items-center text-sm text-gray-400 space-y-4 md:space-y-0">
