@@ -44,8 +44,8 @@ const Footer = () => {
               <li><strong>Phone:</strong> (937) 518-4849, (513) 667-4946</li>
               <li>
                 <strong>Email:</strong>{' '}
-                <a href="mailto:azfreightsolution@gmail.com" className="text-blue-400 hover:underline">
-                  azfreightsolution@gmail.com
+                <a href="mailto:dispatch@azfreightllc.com" className="text-blue-400 hover:underline">
+                   dispatch@azfreightllc.com
                 </a>
               </li>
             </ul>
