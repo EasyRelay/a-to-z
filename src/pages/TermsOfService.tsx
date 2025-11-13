@@ -84,10 +84,10 @@ function TermsOfService() {
               <p>For any questions about these Terms of Service, please contact us at:</p>
               <div className="bg-gray-800/50 p-6 rounded-xl border border-gray-700/40 mt-6">
                 <p className="mb-2 font-bold text-white">A TO Z FREIGHT SOLUTION LLC</p>
-                <p className="mb-2">Email: azfreightsolution@gmail.com</p>
+                <p className="mb-2">Email: dispatch@azfreightllc.com</p>
                 <p className="mb-2">Phone: (937) 518-4849, (513) 667-4946</p>
                 <p className="mb-2">Address: 80 Marbury Ct, Springboro, OH 45066</p>
-                <p className="mb-2">Website: https://atozlogistic.netlify.app</p>
+                <p className="mb-2">Website: https://azfreightllc.com</p>
               </div>
 
               <p className="text-sm text-gray-500 mt-12 text-center italic">
