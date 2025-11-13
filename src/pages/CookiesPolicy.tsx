@@ -87,7 +87,7 @@ const CookiesPolicy = () => {
                 <p className="mb-2">80 Marbury Ct</p>
                 <p className="mb-2">Springboro, OH 45066</p>
                 <p className="mb-2">Phone: (937) 518-4849, (513) 667-4946</p>
-                <p className="mb-2">Email: azfreightsolution@gmail.com</p>
+                <p className="mb-2">Email: dispatch@azfreightllc.com</p>
               </div>
 
               <p className="text-sm text-gray-500 mt-12 text-center italic">
